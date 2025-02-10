@@ -1,1 +1,1 @@
-# bolt-ball-base
+# bolt-generated-project
